@@ -1,3 +1,7 @@
+#👋 Hey there
+
+My name is Tyler, I'm a passionate web developer who loves exploring the exciting world of JavaScript technologies and continuously seeking ways to improve and innovate. 🚀  
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tyler-mommsen) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tyler_mommsen) 
 
