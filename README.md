@@ -1,4 +1,4 @@
-#👋 Hey there
+# 👋 Hey there
 
 My name is Tyler, I'm a passionate web developer who loves exploring the exciting world of JavaScript technologies and continuously seeking ways to improve and innovate. 🚀  
 
