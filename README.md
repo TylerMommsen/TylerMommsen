@@ -3,7 +3,7 @@
 I am a Front-End developer.
 
 ## 💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,sass,ts,react,mongodb,express,nodejs,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,sass,tailwind,ts,react,nextjs,git)](https://skillicons.dev)
 
 ## 🌍 Socials
 <div id="badges">
