@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Tyler Mommsen
 
-I am a Front-End developer.
+I am a Frontend developer.
 
 ## 💻 Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,sass,tailwind,ts,react,nextjs,git)](https://skillicons.dev)
