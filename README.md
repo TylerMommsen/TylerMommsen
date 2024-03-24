@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Tyler Mommsen
 
-I'm a Frontend developer. Currently, my main stack is Next.js/React with TypeScript and Tailwind, but I always love learning and experimenting with different technology.
+Frontend developer focused on building intuitive and dynamic user experiences.
 
 ## 💻 Skills
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,sass,tailwind,ts,react,nextjs)](https://skillicons.dev)
