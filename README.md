@@ -1,6 +1,3 @@
 # 👋 Hey, I'm Tyler Mommsen
 
-Frontend React developer focused on building intuitive and dynamic user experiences.
-
-## 💻 Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,sass,tailwind,ts,react,nextjs)](https://skillicons.dev)
+This is where I upload all my source code for my videos on [My YouTube Channel](youtube.com/@TylerMommsen).
